@@ -1,0 +1,40 @@
+# 🎯 Guess The Number Game (Python)
+
+A simple and fun **Guess The Number** game built using **Python** and **Object-Oriented Programming (OOP)** concepts.
+
+---
+
+## 📌 Description
+
+This game generates a random secret number, and the player tries to guess it within a limited number of attempts depending on the chosen difficulty level.
+
+The project is designed to practice:
+- Python basics
+- Object-Oriented Programming (OOP)
+- Input validation
+- Game logic
+
+---
+
+## 🕹️ Game Features
+
+- 👤 Player name input with validation  
+- 🎚️ Three difficulty levels:
+  - **Easy**: Numbers from 1 to 20 (5 attempts)
+  - **Mid**: Numbers from 1 to 100 (7 attempts)
+  - **Hard**: Numbers from 400 to 1000 (10 attempts)
+- 🔁 Restart or quit option after each game
+- 🎨 Colored text output using `termcolor`
+- 🤖 Computer-generated random number
+
+## How to run 
+
+The App in Releases
+
+---
+
+## Author
+
+Youssef Osama
+Python learner
+
